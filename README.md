@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-![image](https://github.com/user-attachments/assets/972f75da-1179-4b5f-ab64-ef0eb0f5ec65)
+![image](https://github.com/user-attachments/assets/d954ed16-2eb8-4cff-b759-50a77868764f)
+
 
 I’m currently an engineering student at Télécom Paris, studying Data Science and Digital Infrastructure.
