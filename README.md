@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![image](https://github.com/user-attachments/assets/d954ed16-2eb8-4cff-b759-50a77868764f)
 
 
-I’m currently an engineering student at Télécom Paris, studying Data Science and Digital Infrastructure.
+I’m **Ahmed Maalej**, currently pursuing a **Master 2 in Data Science** at **École Polytechnique**.  
