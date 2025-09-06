@@ -3,7 +3,7 @@
 ![banner](https://github.com/user-attachments/assets/d954ed16-2eb8-4cff-b759-50a77868764f)
 
 **About me**  
-Master 2 in Data Science at École Polytechnique. I build end-to-end ML/NLP systems (data → model → deployment) with a focus on solid validation, reproducibility, and measurable impact. Open to a **6-month internship from April 2025** (France).
+Master 2 in Data Science at École Polytechnique. Open to a **6-month internship from April 2025** (France).
 
 ## Tech stack
 
